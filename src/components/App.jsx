@@ -3,10 +3,10 @@ import { Statistics } from './Statistics/Statistics';
 import { FriendList } from './FriendList/FriendList';
 import { TransactionHistory } from './TransactionHistory/TransactionHistory';
 
-import user from './Utils/user.json';
-import statistics from './Utils/statistics.json';
-import friends from './Utils/friends.json'
-import transactions from './Utils/transactions.json';
+import user from 'Data/user.json';
+import statistics from 'Data/statistics.json';
+import friends from 'Data/friends.json'
+import transactions from 'Data/transactions.json';
 
 
 
